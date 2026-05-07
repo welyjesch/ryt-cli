@@ -10,7 +10,8 @@ dependencies = [
     "requests",
     "pyyaml",
     "watchdog",
-    "rich"
+    "rich>=15.0.0",
+    "colorama>=0.4.6"
 ]
 
 [build-system]
